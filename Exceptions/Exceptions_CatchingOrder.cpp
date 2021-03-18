@@ -31,5 +31,6 @@ int main()
 
 	cout << "still running" << endl;
 
+	system("pause");
 	return 0;
 }
